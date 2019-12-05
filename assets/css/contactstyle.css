@@ -151,3 +151,15 @@ body {
     text-align: center;
     padding-top: 10px;
 }
+
+#footer {
+    clear: both;
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    height: 50px;
+    margin-top: 700px;
+    border-top: 8px solid #4aaaa5;
+    clear: both;
+    padding-top: 30px;
+}
